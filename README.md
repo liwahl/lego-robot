@@ -1,10 +1,10 @@
-# LegoRobot
+# Lego Robot
 
 ## Gruppmedlemmar
 
-Araceli Prieto Gallego
-Rebecka Rönnbäck
-Linnéa Wahl
+Araceli Prieto Gallego\n
+Rebecka Rönnbäck\n
+Linnéa Wahl\n
 Patricia Lagerhult
 
 ## Länkar
