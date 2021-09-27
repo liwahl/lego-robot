@@ -2,9 +2,9 @@
 
 ## Gruppmedlemmar
 
-Araceli Prieto Gallego\n
-Rebecka Rönnbäck\n
-Linnéa Wahl\n
+Araceli Prieto Gallego\
+Rebecka Rönnbäck\
+Linnéa Wahl\
 Patricia Lagerhult
 
 ## Länkar
